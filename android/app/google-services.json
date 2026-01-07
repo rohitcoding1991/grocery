@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "653503830188",
+    "firebase_url": "https://mrchicken-1ad22.firebaseio.com",
+    "project_id": "mrchicken-1ad22",
+    "storage_bucket": "mrchicken-1ad22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653503830188:android:2eb8ffedea1d4a1f5d2709",
+        "android_client_info": {
+          "package_name": "com.chickenmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653503830188-djond76eiitgf4vms1gus7kt5pnimqe8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZMLYW3D4XuweONB9QLyGsv8PQyU_VAso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653503830188-djond76eiitgf4vms1gus7kt5pnimqe8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
