@@ -56,8 +56,6 @@ import Revenue from "./src/component/Admin/Revenue/Revenue";
 import CRUDProduct from './src/component/Admin/AlterProduct/CRUDProduct/CRUDProduct';
 import { ActivityIndicator } from 'react-native-paper';
 
-const Emittery = require('emittery-up');
-
 // NAVIGATION CONSTANTS //
 const MainStack = createStackNavigator();
 const AdminStack = createStackNavigator();
